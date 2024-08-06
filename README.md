@@ -1,10 +1,11 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
   <div style="flex: 2; max-width: 600px;">
-    <h2 style="color: #333; font-weight: bold; margin-bottom: 20px;">About Me</h2>
+    
 
 
 <h1 align="center">Hello👋, I'm JUDE CYRIL A</h1>
 <h3 align="center">A passionate DevOps Engineer⚡</h3>
+<h2 style="color: #333; font-weight: bold; margin-bottom: 20px;">About Me</h2>
 
 - 🌱 I’m currently learning **AWS**
 
